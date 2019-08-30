@@ -1,3 +1,3 @@
 const driver = 'bob';
 
-console.log()
+console.log('This code was cancelled')
