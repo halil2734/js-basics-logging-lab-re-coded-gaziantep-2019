@@ -4,4 +4,4 @@ console.log('This code was called');
 
 console.log (driver);
 
-console
+console.log('')
